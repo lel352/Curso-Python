@@ -21,4 +21,12 @@
     * Desafio Pratíco 2 - Exercícios propostos
     * Aula 15 - Formatando valores em Python
     * Aula 16 - Índices e fatiamento de strings em Python
-    
+    * Aula 17 - While - estrutura de repetição em Python
+    * Aula 18 - While/Else - Repetição com acumuladores em Python
+    * Aula 19 - Iterando strings com while em Python
+    * Aula 20 - For in - Estrutura de repetição em Python
+    * Aula 21 - Listas em Python
+    * Aula 22 - FOR / ELSE em Python 
+    * Aula 23 - Split, Join e Enumerate em Python
+    * Aula 24 - Desempacotamento de listas em Python
+    * Aula 25 - Trocando o valor entre variáveis em Python
