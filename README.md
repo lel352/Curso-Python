@@ -30,3 +30,5 @@
     * Aula 23 - Split, Join e Enumerate em Python
     * Aula 24 - Desempacotamento de listas em Python
     * Aula 25 - Trocando o valor entre variáveis em Python
+    * Aula 26 - Operação ternária em Python
+    * Aula 27 - Expressão condicional com operador OR
