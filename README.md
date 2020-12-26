@@ -42,3 +42,6 @@
     * Aula 03 - Funções (def) em Python - Parte 3 - args
     * Aula 04 - Funções (def) em Python - Parte 4 - Escopos
     * Exercicios 2
+    * Aula 05 - Expressões lambda (funções anônimas) em Python
+    * Aula 06 - Tuplas em Python 
+    * Aula 07 - Dicionários em Python
