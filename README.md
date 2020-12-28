@@ -45,3 +45,5 @@
     * Aula 05 - Expressões lambda (funções anônimas) em Python
     * Aula 06 - Tuplas em Python 
     * Aula 07 - Dicionários em Python
+    * Aula 08 - Sistema de perguntas e respostas com dicionários em Python
+    * Aula 09 - Sets em Python (Conjuntos)
