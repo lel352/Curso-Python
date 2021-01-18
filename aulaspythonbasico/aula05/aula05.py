@@ -34,7 +34,7 @@ print('(5+2)*10: ', (5+2)*10)  # 1º = (5 + 2)  2º = Resultado anterior * 10 = 
 
 """
 Assim como aprendemos na matemática, operadores têm uma certa precedência que pode ser alterada usando os parênteses 
-(como descrito na aula anterior).
+(como descrito na aula12 anterior).
 
 Abaixo, segue uma lista mais precisa de quais operadores tem maior prioridade na hora de realizar contas mais complexas
 (de maior para menor precedência).

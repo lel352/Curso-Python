@@ -51,3 +51,5 @@
     * Aula 10 - List Comprehension em Python
     * Exercicios 4
     * Aula 11 - Dictionary Comprehension em Python - (Compreensão de dicionários)
+    * Aula 12 - Geradores, Iteradores e Iteráveis em Python
+    * Aula 13 - Zip e Zip_longest - Unindo iteráveis
