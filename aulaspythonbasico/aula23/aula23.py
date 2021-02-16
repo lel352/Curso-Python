@@ -63,3 +63,24 @@ n1, n2, n3 = lista5  # Desempacotamento
 print(n1)
 print(n2)
 print(n3)
+
+print('*'*20)
+# Enumerate - Enumerear elementos da lista # list
+
+lista = [
+    ['Edu', 'João', 'Luiz'],
+    ['Maria', 'Carla', 'Joana'],
+    ['Lucas', 'Marcia', 'Helena']
+]
+
+print(lista[2])
+print(lista[1][2])  # Joana
+
+# enumera os objetos
+enumerada = list(enumerate(lista))  # objeto enumerate  - elemento interado
+print(enumerada)
+print(enumerada[0][1])
+print(enumerada[0][1][2])  # Luiz
+
+for v1, v2 in enumerate(lista, 50):  # iniciar  o numeracao com numero 50
+    print(v1, v2)

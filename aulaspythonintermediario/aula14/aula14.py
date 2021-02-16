@@ -1,4 +1,4 @@
-# * Aula14 - Count - Contadores infinitos
+# * aula14 - Count - Contadores infinitos
 # count - Itertools
 
 from itertools import count

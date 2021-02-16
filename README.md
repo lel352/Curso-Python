@@ -55,3 +55,4 @@
     * Aula 13 - Zip e Zip_longest - Unindo iteráveis
     * Aula 14 - Count - Contadores infinitos
     * Aula 15 - Combinations, Permutations e Product - Itertools
+    * Aula 16 - Groupby - Agrupando valores
