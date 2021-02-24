@@ -56,3 +56,10 @@
     * Aula 14 - Count - Contadores infinitos
     * Aula 15 - Combinations, Permutations e Product - Itertools
     * Aula 16 - Groupby - Agrupando valores
+    * Aula 17 - Map
+    * Aula 18 - Filter
+    * Aula 19 - Reduce
+    * Aula 20 - Try, Except - Tratando Exceções em Python
+    * Aula 21 - Levantando exceções em Python (raise)
+    * Aula 22 - Uso de try e except como condicional
+    
