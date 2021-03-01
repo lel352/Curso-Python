@@ -62,4 +62,7 @@
     * Aula 20 - Try, Except - Tratando Exceções em Python
     * Aula 21 - Levantando exceções em Python (raise)
     * Aula 22 - Uso de try e except como condicional
+    * Aula 23 - Módulos padrão do Python
+    * Aula 24 - Como criar módulos em Pytho
+    * Aula 25 - Como criar pacotes e módulos em Python
     
