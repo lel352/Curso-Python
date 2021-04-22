@@ -53,6 +53,8 @@
     * Aula 11 - Dictionary Comprehension em Python - (Compreensão de dicionários)
     * Aula 12 - Geradores, Iteradores e Iteráveis em Python
     * Aula 13 - Zip e Zip_longest - Unindo iteráveis
+    * Exercicios 5
+    * Exercicios 6
     * Aula 14 - Count - Contadores infinitos
     * Aula 15 - Combinations, Permutations e Product - Itertools
     * Aula 16 - Groupby - Agrupando valores
@@ -65,4 +67,10 @@
     * Aula 23 - Módulos padrão do Python
     * Aula 24 - Como criar módulos em Pytho
     * Aula 25 - Como criar pacotes e módulos em Python
-    
+    * Aula 26 - Criando, lendo, escrevendo e apagando arquivos
+    * Aula 27 - Caminhos de módulos e pacotes (ponto de vista)
+    * Aula 28 - Funções decoradoras e decoradores
+    * Aula 29 - Problema dos parâmetros mutáveis em funções
+    * Exercicios 7
+    * Exercicios 8
+    * Exercicios 9
