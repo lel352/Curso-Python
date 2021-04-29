@@ -74,3 +74,6 @@
     * Exercicios 7
     * Exercicios 8
     * Exercicios 9
+
+3. Seção 3:Python - Introdução à Programação Orientada a Objetos - POO (Classes)
+    * Aula 01 - Classes - Python Orientado a Objetos
