@@ -80,4 +80,11 @@
     * Aula 02 - Métodos de classes - Python Orientado a Objetos
     * Aula 03 - Métodos estáticos - Python Orientado a Objetos
     * Aula 04 - @property - Getters e Setters
-    * Aula 05 -  Atributos de Classe
+    * Aula 05 - Atributos de Classe
+    * Aula 06 - Encapsulamento
+    * Aula 07 - Associação
+    * Aula 08 - Agregação
+    * Aula 09 - Composição
+    * Aula 10 - Herança Simples 
+    * Aula 11 - Sobreposição de membros
+    * Aula 12 - Herança múltipla
