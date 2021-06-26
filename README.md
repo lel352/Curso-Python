@@ -88,3 +88,11 @@
     * Aula 10 - Herança Simples 
     * Aula 11 - Sobreposição de membros
     * Aula 12 - Herança múltipla
+    * Aula 13 - Classes Abstratas 
+    * Aula 14 - Polimorfismo de sobreposição
+    * Aula 15 - Criando Exceções
+    * Aula 16 - Sobrecarga de operadores
+    * Aula 17 - Métodos mágicos
+    * Aula 18 - Context Manager - Criando e Usando gerenciadores de contexto
+    * Aula 19 - Herança Simples (Tira dúvidas)
+    * Aula 20 - Metaclasses
