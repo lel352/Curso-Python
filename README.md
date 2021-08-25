@@ -34,6 +34,7 @@
     * Aula 27 - Expressão condicional com operador OR
     * Desafio Pratíco 3
     * Aula 28 - Gerando CPFs com Python
+    * Aula 29 - Tira dúvidas: for, listas, condições e concatenações
 
 2. Seção 2:Python Intermediário (Programação Procedural)
     * Aula 01 - Funções (def) em Python - Parte 1
@@ -96,3 +97,10 @@
     * Aula 18 - Context Manager - Criando e Usando gerenciadores de contexto
     * Aula 19 - Herança Simples (Tira dúvidas)
     * Aula 20 - Metaclasses
+    * Aula 21 - DocStrings - Documentação
+    * Exercicio POO - Exercicio 01
+    * Aula 22 - Reforço - Getters e Setters - Parte 1 e 2
+    * Exercicio - Calculando Redes IPV4
+    * Aula 23 - Dataclasses
+    * Aula 24 - Enum
+    * Aula 25 - Implementando um iterator

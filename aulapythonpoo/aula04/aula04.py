@@ -1,8 +1,8 @@
 class Produto:
 
     def __init__(self, nome, preco):
-        self.nome = nome
-        self.preco = preco
+        self._nome = nome
+        self._preco = preco
 
 
     def desconto(self, percentual):
@@ -21,7 +21,7 @@ class Produto:
     # Setter
     @preco.setter
     def preco(self, valor):
-        if isinstance(valor, str): # verificando se o valor é uma string, uma instância da classe str
+        if isinstance(valor, str):  # verificando se o valor é uma string, uma instância da classe str
             valor = float(valor.replace('R$', ''))
 
         self._preco = valor
