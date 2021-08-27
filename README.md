@@ -104,3 +104,7 @@
     * Aula 23 - Dataclasses
     * Aula 24 - Enum
     * Aula 25 - Implementando um iterator
+    
+4. Seção 4:Python - Módulos Python - os, datetime, sys, json, csv, selenium etc...
+    * Aula 01 - if __name__ == "__main__" 
+    * Aula 02 - Trabalhando com data e hora em Python
