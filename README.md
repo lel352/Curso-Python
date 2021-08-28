@@ -108,3 +108,8 @@
 4. Seção 4:Python - Módulos Python - os, datetime, sys, json, csv, selenium etc...
     * Aula 01 - if __name__ == "__main__" 
     * Aula 02 - Trabalhando com data e hora em Python
+    * Aula 03 - Datetime #2 - Datas em português
+    * Aula 04 - Percorrendo arquivos e pastas
+    * Aula 05 - OS + SHUTIL - Mover, copiar e apagar arquivos
+    * Aula 06 - OS, SYS, FNMATCH - Convertendo vídeos com Python + FFMPEG
+    * Aula 07 - JSON - JavaScript Object Notation
