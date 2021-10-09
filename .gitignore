@@ -1,0 +1,15 @@
+/auladjango/Projeto/venv/
+/venv/
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+*.pth
+*.sqlite3
+*.py
+*.exe
+venv/Scripts/pip3.exe
+venv/Scripts/pip3.8.exe
+venv/Scripts/pip.exe
+*.exe

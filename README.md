@@ -113,3 +113,35 @@
     * Aula 05 - OS + SHUTIL - Mover, copiar e apagar arquivos
     * Aula 06 - OS, SYS, FNMATCH - Convertendo vídeos com Python + FFMPEG
     * Aula 07 - JSON - JavaScript Object Notation
+    * Aula 08 - CSV - Comma Separated Values 
+    * Aula 09 - Random - números aleatórios e mais
+    * Aula 10 - String - Template
+    * Aula 11 - Enviando e-mails com Python
+    * Aula 12 - ZIP - Compactando / Descompactando arquivos
+    * Aula 13 - Sys.argv - Executando arquivos com argumentos no sistema
+    * Aula 14 - Web Scraping com Python
+    * Aula 15 - Selenium - Automatizando tarefas no navegador
+    * Aula 16 - Subprocess - Executando programas e comandos externos
+    * Aula 17 - Jupyter Notebook
+    * Aula 18 - Threads - Executando processamentos em paralelo
+    * Aula 19 - PyPDF2 - Unindo e dividindo arquivos PDF
+    * Aula 20 - Deque - Trabalhando com LIFO e FIFO 
+    * Aula 21 - Openpyxl - Planilhas do Excel em Python 
+    * Aula 22 - Pillow: redimensionando várias imagens automaticamente
+    
+5. Seção 5:Python - PyQT5 - Interface gráfica no Python - GUI para Desktop
+    * Aula 01 - Instalação e primeiro contato com PyQT5 
+    * Aula 02 - Criando uma calculadora com PyQT5   
+    * Aula 03 - Integrando janelas do QT Designer com PyQT5 
+    * Aula 04 - Adicionando PyQT5 em código Python antigo
+
+6. Seção 7: Bases de dados com Python - SQLite, MySQL e MariaDB
+    * Aula 01 - SQLite: usando o módulo sqlite3
+    * Aula 02 - Python sqlite3 + DB Browser for SQLite
+    * Aula 03 - CRUD com Pymysql no MySQL e Mariadb Server
+    
+7. Secão 8: Django no Python - Básico
+    * Aula 01 - Django: Olá mundo! (Projeto  rojeto)
+    * Aula 02 - Usando um template HTML em comum (Projeto vdjango)
+    * Aula 03 - Página inicial (Projeto vdjango)
+   
