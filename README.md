@@ -144,4 +144,9 @@
     * Aula 01 - Django: Olá mundo! (Projeto  rojeto)
     * Aula 02 - Usando um template HTML em comum (Projeto vdjango)
     * Aula 03 - Página inicial (Projeto vdjango)
-   
+    * Aula 04 - Arquivos estáticos (CSS, JS, IMG...)(Projeto meusite)
+    * Aula 05 - Carregando URLs dinamicamente(Projeto meusite)
+    * Aula 06 - Incluindo arquivos parciais(Projeto meusite)
+
+8. Secão 8: Django no Python - Projeto Agenda.
+    * Aula 01 - 
