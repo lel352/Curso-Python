@@ -149,4 +149,5 @@
     * Aula 06 - Incluindo arquivos parciais(Projeto meusite)
 
 8. Secão 8: Django no Python - Projeto Agenda.
-    * Aula 01 - 
+    * Aula 01 - Projeto Agenda: Criando o projeto
+    * Aula 02 - Projeto Agenda: Criando os Models
