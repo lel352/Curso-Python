@@ -151,3 +151,11 @@
 8. Secão 8: Django no Python - Projeto Agenda.
     * Aula 01 - Projeto Agenda: Criando o projeto
     * Aula 02 - Projeto Agenda: Criando os Models
+    * Aula 03 - Projeto Agenda: Admin
+    * Aula 04 - Projeto Agenda: Exibindo valores nas views
+    * Aula 05 - Projeto Agenda: Exibindo um único contato
+    * Aula 06 - Levantando erros 404
+    * Aula 07 - Usando condicionais
+    * Aula 08 - Paginação
+    * Aula 09 - Ordenando e filtrando valores
+    * Aula 10 - Campo de pesquisa

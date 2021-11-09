@@ -3,27 +3,39 @@
 <html lang="pt">
 
 <head>
-  <title>Agenda</title>
-  {%include 'parciais/_head.html' %}
+    <title>Agenda</title>
+    {%include 'parciais/_head.html' %}
 
 </head>
 
 <body>
-  <!-- Navigation -->
-  {%include 'parciais/_nav.html' %}
+<!-- Navigation -->
+{%include 'parciais/_nav.html' %}
 
-  <!-- Page Content -->
-  <div class="container">
+<!-- Page Content -->
+<div class="container">
     <div class="row">
-      <div class="col-lg-12">
-        {%block conteudo%}{%endblock%}
-      </div>
+        <div class="col-lg-12">
+            <br><br>
+            <form method="get" action="{% url 'busca' %}">
+                <div class="form-group row">
+                    <div class="col-12">
+                        <input class="form-control"
+                               type="search" value="{{ request.GET.termo }}"
+                               id="search-input"
+                               placeholder="Digite sua pesquisa"
+                               name="termo">
+                    </div>
+                </div>
+            </form>
+            {%block conteudo%}{%endblock%}
+        </div>
     </div>
-  </div>
+</div>
 
-  <!-- Bootstrap core JavaScript -->
-  <script src="{% static 'vendor/jquery/jquery.slim.min.js'%}"></script>
-  <script src="{% static 'vendor/bootstrap/js/bootstrap.bundle.min.js'%}"></script>
+<!-- Bootstrap core JavaScript -->
+<script src="{% static 'vendor/jquery/jquery.slim.min.js'%}"></script>
+<script src="{% static 'vendor/bootstrap/js/bootstrap.bundle.min.js'%}"></script>
 
 </body>
 

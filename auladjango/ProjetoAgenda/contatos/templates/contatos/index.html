@@ -6,6 +6,7 @@
 <table class="table">
     <thead>
     <tr>
+        <th>ID</th>
         <th>Nome</th>
         <th>Sobrenome</th>
         <th>Telefone</th>
@@ -13,31 +14,39 @@
     </tr>
     </thead>
     <tbody>
-    <tr>
-        <td>
-            <a href="#"> João</a>
-        </td>
-        <td>Miranda</td>
-        <td>35 9 5555-5555</td>
-        <td>Família</td>
-    </tr>
-    <tr>
-        <td>
-            <a href="#"> Leandro</a>
-        </td>
-        <td>Moreira</td>
-        <td>35 9 8888-5555</td>
-        <td>Família</td>
-    </tr>
-    <tr>
-        <td>
-            <a href="#"> Fátima</a>
-        </td>
-        <td>Oliveira</td>
-        <td>35 9 9999-4352</td>
-        <td>Conhecidos</td>
-    </tr>
+        {% for contato in contatos %}
+           <!-- {% if contato.mostrar %}-->
+                <tr>
+                    <td>{{ contato.id }}</td>
+                    <td>
+                        <a href="{% url 'ver_contato' contato.id %}"> {{ contato.nome }}</a>
+                    </td>
+                    <td>{{ contato.sobrenome }}</td>
+                    <td>{{ contato.telefone }}</td>
+                    <td>{{ contato.categoria }}</td>
+                </tr>
+           <!-- {%endif%}-->
+        {%endfor%}
     </tbody>
 </table>
+
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination">
+    <!--<li class="page-item"><a class="page-link" href="#">Previous</a></li>-->
+      {%for pagina in contatos.paginator.page_range%}
+        {% if contatos.number == pagina %}
+            <li class="page-item active">
+                <a class="page-link" href="?p={{ pagina }}&termo={{ request.GET.termo }}">{{pagina}}</a>
+            </li>
+        {% else %}
+            <li class="page-item">
+                <a class="page-link" href="?p={{ pagina }}&termo={{ request.GET.termo }}">{{pagina}}</a>
+            </li>
+        {%endif%}
+      {%endfor%}
+    <!--<li class="page-item"><a class="page-link" href="#">Next</a></li>-->
+  </ul>
+</nav>
 
 {%endblock%}
