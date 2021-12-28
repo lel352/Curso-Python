@@ -2,6 +2,12 @@
 
 {%block conteudo %}
     <h1 class="mt-5">{{ contato.nome }} {{ contato.sobrenome }}</h1>
+    {% if contato.foto %}
+    <p>
+        <img src="{{ contato.foto.url}}" style="max-width: 250px; height:auto">
+    </p>
+    {% endif %}
+
     <dl>
         <dt>id</dt>
         <dd>{{ contato.id }}</dd>

@@ -159,3 +159,5 @@
     * Aula 08 - Paginação
     * Aula 09 - Ordenando e filtrando valores
     * Aula 10 - Campo de pesquisa
+    * Aula 11 - Campo Imagem.
+    

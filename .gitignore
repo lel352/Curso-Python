@@ -13,3 +13,10 @@ venv/Scripts/pip3.exe
 venv/Scripts/pip3.8.exe
 venv/Scripts/pip.exe
 *.exe
+auladjango/ProjetoAgenda/media/fotos/2021/12/28/Amethyst_Vol_1_11.jpg
+auladjango/ProjetoAgenda/media/fotos/2021/12/28/hulk321_7b.jpg
+auladjango/ProjetoAgenda/media/fotos/2021/12/28/Vigilante_Vol_1_3.jpg
+auladjango/ProjetoAgenda/agenda/__pycache__/__init__.cpython-36.pyc
+auladjango/ProjetoAgenda/agenda/__pycache__/settings.cpython-36.pyc
+auladjango/ProjetoAgenda/agenda/__pycache__/urls.cpython-36.pyc
+auladjango/ProjetoAgenda/agenda/__pycache__/wsgi.cpython-36.pyc
