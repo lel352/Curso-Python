@@ -160,4 +160,6 @@
     * Aula 09 - Ordenando e filtrando valores
     * Aula 10 - Campo de pesquisa
     * Aula 11 - Campo Imagem.
+    * Aula 12 - Mensagens com Django Messages
+    * Aula 13 - Sistema de login - Preparando tudo
     
