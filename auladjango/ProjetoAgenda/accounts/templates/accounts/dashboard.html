@@ -1,5 +1,10 @@
 {% extends 'base.html' %}
 
 {% block conteudo %}
-dashboard
+<h1 class="mt-3 mb-3">Olá, {{ user.first_name }} {{ user.last_name }} </h1>
+{% include 'parciais/_messages.html'%}
+<p>
+    Nome: {{ user }}
+</p>
+
 {% endblock %}

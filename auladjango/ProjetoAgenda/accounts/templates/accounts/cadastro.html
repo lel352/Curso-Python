@@ -6,19 +6,19 @@
     {% include 'parciais/_messages.html'%}
   <div class="form-group">
     <label>Nome</label>
-    <input type="text" class="form-control" name="txtNome" >
+    <input type="text" class="form-control" name="txtNome" value="{{request.POST.txtNome}}">
   </div>
   <div class="form-group">
     <label>Sobrenome</label>
-    <input type="text" class="form-control" name="txtSobrenome" >
+    <input type="text" class="form-control" name="txtSobrenome" value="{{request.POST.txtSobrenome}}">
   </div>
   <div class="form-group">
     <label>Email</label>
-    <input type="email" class="form-control" name="txtEmail" placeholder="Enter email">
+    <input type="email" class="form-control" name="txtEmail" placeholder="Enter email" value="{{request.POST.txtEmail}}">
   </div>
   <div class="form-group">
     <label>Usuário</label>
-    <input type="text" class="form-control" name="txtUsuario">
+    <input type="text" class="form-control" name="txtUsuario" value="{{request.POST.txtUsuario}}">
   </div>
   <div class="form-group">
     <label>Senha</label>

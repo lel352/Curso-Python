@@ -162,4 +162,5 @@
     * Aula 11 - Campo Imagem.
     * Aula 12 - Mensagens com Django Messages
     * Aula 13 - Sistema de login - Preparando tudo
-    
+    * Aula 14 - Cadastro de usuários
+    * Aula 15 - Login, Logout e Dashboard
