@@ -164,3 +164,4 @@
     * Aula 13 - Sistema de login - Preparando tudo
     * Aula 14 - Cadastro de usuários
     * Aula 15 - Login, Logout e Dashboard
+    * Aula 16 - Verificando usuários logados
