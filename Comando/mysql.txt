@@ -1,0 +1,46 @@
+sudo apt-get update
+sudo apt-get install mariadb-server python3.7-dev libmysqlclient-dev
+
+# Usuário cursopython, senha curs0Pyth0n@169, bd sitedjango
+sudo mysql -u root
+USE mysql;
+UPDATE user SET plugin='' WHERE User='root';
+CREATE DATABASE sitedjango CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+CREATE USER 'cursopython'@'%' IDENTIFIED BY 'curs0Pyth0n@169';
+GRANT ALL PRIVILEGES ON sitedjango.* TO 'cursopython'@'%';
+FLUSH PRIVILEGES; Exit;
+
+# Ativado o ambiente virtual
+source /home/$USER/agenda/venv/bin/activate
+pip install mysqlclient
+
+## MIGRANDO
+cd /home/$USER/agenda/
+python manage.py dumpdata > db.json
+
+# Configurar os dados da base de dados MySQL / PostgreSQL.
+nano /home/$USER/agenda/agenda/settings.py
+
+# EDITAR
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'USER': 'cursopython',
+        'PASSWORD': 'curs0Pyth0n@169',
+        'HOST': '127.0.0.1',
+        'NAME': 'sitedjango'
+    }
+}
+
+cd /home/$USER/agenda/
+python manage.py migrate
+python manage.py shell
+
+## Adicionar o seguinte no shell interativo
+from django.contrib.contenttypes.models import ContentType
+ContentType.objects.all().delete()
+quit()
+
+python manage.py loaddata db.json
+sudo systemctl restart nginx && sudo systemctl restart gunicorn
+rm db*

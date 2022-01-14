@@ -165,3 +165,14 @@
     * Aula 14 - Cadastro de usuários
     * Aula 15 - Login, Logout e Dashboard
     * Aula 16 - Verificando usuários logados
+    * Aula 17 - Formulários para Models
+
+9. Secão 9: Django no Python - Primeiro Deploy
+    * Aula 01 - Deploy: Criando um servidor no GCP
+    * Aula 02 - Deploy: Preparando o ambiente
+    * Aula 03 - Deploy - Linux: Movendo os arquivos para o servidor
+    * Aula 04 - Deploy - Windows: Movendo os arquivos para o servidor
+    * Aula 05 - Deploy - Nginx & Gunicorn
+    * Aula 06 - Deploy - HTTPS e Segurança
+    * Aula 07 - Deploy - Migrando para MySQL / MariaDB
+    * Aula 08 - Git e local_settings.py - Editando localmente
