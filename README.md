@@ -176,3 +176,4 @@
     * Aula 06 - Deploy - HTTPS e Segurança
     * Aula 07 - Deploy - Migrando para MySQL / MariaDB
     * Aula 08 - Git e local_settings.py - Editando localmente
+    * Aula 09 - Customizando a área Admin
