@@ -1,9 +1,10 @@
 from pathlib import Path
+from time import sleep
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from time import sleep
 
 # Caminho para a raiz do projeto
 ROOT_FOLDER = Path(__file__).parent
