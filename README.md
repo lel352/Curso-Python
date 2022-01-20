@@ -177,3 +177,6 @@
     * Aula 07 - Deploy - Migrando para MySQL / MariaDB
     * Aula 08 - Git e local_settings.py - Editando localmente
     * Aula 09 - Customizando a área Admin
+
+10. Seção 10: Django com Python - Projeto Blog
+    * Aula 01 - Projeto Blog - Incio
