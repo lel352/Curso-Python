@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.humanize',
 ]
 
 MIDDLEWARE = [
@@ -125,7 +126,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = (BASE_DIR / 'static',)
+STATICFILES_DIRS = (BASE_DIR / 'templates/static',)
 
 MEDIA_ROOT = BASE_DIR / 'media'
 MEDIA_URA = '/media/'
