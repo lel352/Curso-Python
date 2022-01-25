@@ -179,4 +179,6 @@
     * Aula 09 - Customizando a área Admin
 
 10. Seção 10: Django com Python - Projeto Blog
-    * Aula 01 - Projeto Blog - Incio
+    * Aula 01 - Projeto Blog - início
+    * Aula 02 - Projeto Blog
+    * Aula 03 - Projeto Blog

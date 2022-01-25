@@ -1,7 +1,7 @@
 <!--_nav.html-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary static-top">
     <div class="container">
-        <a class="navbar-brand" href="index.html">Blog do Luiz</a>
+        <a class="navbar-brand" href="{% url 'index'%}">Blog do Curso Python Exemplo</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -9,20 +9,20 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Python</a>
+                    <a class="nav-link" href="{% url 'post_categoria' 'DC'%}">DC</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Django</a>
+                    <a class="nav-link" href="{% url 'post_categoria' 'Marvel'%}">Marvel</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Tecnologia</a>
+                    <a class="nav-link" href="{% url 'post_categoria' 'Image'%}">Image</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Sistemas</a>
+                    <a class="nav-link" href="{% url 'post_categoria' 'Dark Horse'%}">Dark Horse</a>
                 </li>
             </ul>
-            <form class="form-inline my-2 my-lg-0 ml-lg-4" action="/busca/">
-                <input name="termo" value="" class="form-control mr-sm-2" type="search" placeholder="Pesquisar"
+            <form class="form-inline my-2 my-lg-0 ml-lg-4" action="{% url 'post_busca'%}">
+                <input name="termo" value="{{ request.GET.termo }}" class="form-control mr-sm-2" type="search" placeholder="Pesquisar"
                        aria-label="Search">
             </form>
         </div>
