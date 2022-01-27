@@ -150,3 +150,8 @@ MESSAGE_TAGS = {
 INSTALLED_APPS += ('django_summernote', )
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
+
+try:
+    from .local_settings import *
+except:
+    pass

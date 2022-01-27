@@ -1,5 +1,5 @@
 {% extends 'base.html'%}
-
+{% block titulo %} {{ post.titulo_post|title }}{% endblock %}
 {% block conteudo %}
 
 <!-- POST -->
@@ -22,7 +22,7 @@
         <div class="col-xl"></div>
         <div class="col-xl-8">
             {% if post.imagem_post %}
-            <img class="img-fluid pb-5 " src="{{ post.imagem_post }} " alt="{{ post.titulo_post }}">
+            <img class="img-fluid pb-5 " src="{{ post.imagem_post.url }} " alt="{{ post.titulo_post }}">
             {% endif %}
 
             {{ post.conteudo_post|safe }}
@@ -32,25 +32,23 @@
         <div class="col-xl"></div>
     </div>
 
-
+    {% if comentarios %}
     <div class="row pt-5">
         <div class="col-xl"></div>
         <div class="col-xl-8">
-            <h2 class="my-3">Comentários (1)</h2>
+            <h2 class="my-3">Comentários ({{ comentarios.count }})</h2>
 
-
-            <h5 class="mb-2 mt-5">Luiz Otávio disse:</h5>
-            <small class="text-muted">hoje</small>
-            <p class="mb-1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-                ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-                montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-                pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-                aliquet nec, vulputate&lt;</p>
+            {% for comentario in comentarios %}
+            <h5 class="mb-2 mt-5">{{ comentario.nome_comentario }} disse:</h5>
+            <small class="text-muted">({{ comentario.data_comentario }}</small>
+            <p class="mb-1">{{ comentario.comentario }}&lt;</p>
+            {% endfor %}
 
 
         </div>
         <div class="col-xl"></div>
     </div>
+    {% endif %}
 
 
     <div class="row pt-5">
