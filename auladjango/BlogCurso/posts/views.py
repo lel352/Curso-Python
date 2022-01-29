@@ -6,6 +6,7 @@ from django.db.models import Q, Count, Case, When
 from comentarios.forms import FormComentario
 from comentarios.models import Comentario
 from django.contrib import messages
+from django.db import connection
 
 class PostIndex(ListView):
     model = Post  # sobre escrevendo coisas do ListView
@@ -15,6 +16,7 @@ class PostIndex(ListView):
 
     def get_queryset(self):
         qs = super().get_queryset()
+        qs = qs.select_related('categoria_post')
         qs = qs.order_by('-id').filter(publicado_post=True) # id de forma decresente e o campo tem que estar publicado para aparecer
         qs = qs.annotate( # Criando um campo chamado numero_comentarios
             numero_comentarios=Count(
@@ -25,6 +27,12 @@ class PostIndex(ListView):
         )
 
         return qs
+
+    """def get_context_data(self, *, object_list=None, **kwargs):
+        contexto = super().get_context_data(**kwargs)
+        contexto['connection'] = connection
+        return contexto Quantas consultas realizadas
+        """
 
 
 class PostBusca(PostIndex):

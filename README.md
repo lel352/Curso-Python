@@ -185,3 +185,4 @@
     * Aula 04 - Projeto Blog
     * Aula 05 - Projeto Blog
     * Aula 06 - Criando seus próprios filtros
+    * Aula 07 - Select_related - Otimizando as consultas relacionais
