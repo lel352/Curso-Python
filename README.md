@@ -187,3 +187,5 @@
     * Aula 06 - Criando seus próprios filtros
     * Aula 07 - Select_related - Otimizando as consultas relacionais
     * Aula 08 - Adicionando campos do formulário manualmente
+    * Aula 09 - CBV - Herdando de View ao invés de UpdateView
+    * Aula 10 - Redimensionando imagens do model
