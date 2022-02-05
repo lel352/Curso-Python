@@ -59,10 +59,14 @@
         <form method="POST" action="#envia_comentario">
             {% csrf_token %}
             {% for hidden_field in form.hidden_fields %}
-                {{ hidden_field }}
+            {{ hidden_field }}
             {% endfor%}
             {% for visible_field in form.visible_fields %}
-                {{ visible_field|as_crispy_field }}
+            <div class="form-group">
+                {{ visible_field.label_tag }} <br>
+                {{ visible_field }}
+                {{ visible_field.errors }}
+            </div>
             {% endfor%}
             {% include 'parciais/_messages.html'%}
             <input id="envia_comentario" type="submit" class="btn btn-primary"

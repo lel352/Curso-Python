@@ -189,3 +189,4 @@
     * Aula 08 - Adicionando campos do formulário manualmente
     * Aula 09 - CBV - Herdando de View ao invés de UpdateView
     * Aula 10 - Redimensionando imagens do model
+    * Aula 11 - Crispy Forms e Axes 
