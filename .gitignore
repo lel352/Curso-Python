@@ -7,7 +7,6 @@
 *.pyc
 *.pth
 *.sqlite3
-*.py
 *.exe
 venv/Scripts/pip3.exe
 venv/Scripts/pip3.8.exe
@@ -20,6 +19,7 @@ auladjango/ProjetoAgenda/agenda/__pycache__/__init__.cpython-36.pyc
 auladjango/ProjetoAgenda/agenda/__pycache__/settings.cpython-36.pyc
 auladjango/ProjetoAgenda/agenda/__pycache__/urls.cpython-36.pyc
 auladjango/ProjetoAgenda/agenda/__pycache__/wsgi.cpython-36.pyc
+auladjango/vdjango/venv/
 Projeto E-commerce/venv/
 Projeto E-commerce/*.sqlite3
 auladjango/BlogCurso/venv/
