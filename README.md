@@ -190,3 +190,8 @@
     * Aula 09 - CBV - Herdando de View ao invés de UpdateView
     * Aula 10 - Redimensionando imagens do model
     * Aula 11 - Crispy Forms e Axes 
+    * Aula 12 - reCAPTCHA: Finalizando o projeto blog
+
+11. Secão 11: Django com Python - Projeto E-commerce
+    * Aula 01 - Projeto e-commerce - Configurando VSCode
+    * Aula 02 - Projeto e-commerce - Criando os models Produto e Variação
