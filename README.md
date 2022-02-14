@@ -195,3 +195,4 @@
 11. Secão 11: Django com Python - Projeto E-commerce
     * Aula 01 - Projeto e-commerce - Configurando VSCode
     * Aula 02 - Projeto e-commerce - Criando os models Produto e Variação
+    * Aula 03 - Projeto e-commerce - Criando os models Pedido e ItemPedido
