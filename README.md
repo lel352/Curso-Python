@@ -196,3 +196,5 @@
     * Aula 01 - Projeto e-commerce - Configurando VSCode
     * Aula 02 - Projeto e-commerce - Criando os models Produto e Variação
     * Aula 03 - Projeto e-commerce - Criando os models Pedido e ItemPedido
+    * Aula 04 - Projeto e-commerce - Criando o model do perfil de usuários
+    * Aula 05 - Projeto e-commerce - Slug automático e cadastro de produtos
