@@ -198,3 +198,4 @@
     * Aula 03 - Projeto e-commerce - Criando os models Pedido e ItemPedido
     * Aula 04 - Projeto e-commerce - Criando o model do perfil de usuários
     * Aula 05 - Projeto e-commerce - Slug automático e cadastro de produtos
+    * Aula 06 - Projeto e-commerce - URLs
