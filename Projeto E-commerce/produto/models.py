@@ -2,6 +2,7 @@ from django.db import models
 from PIL import Image
 from loja import settings
 from django.utils.text import slugify
+from utils import utils
 
 
 class Produto(models.Model):
@@ -23,11 +24,11 @@ class Produto(models.Model):
     )
 
     def get_preco_formatado(self):
-        return f'R$ {self.preco_marketing:.2f}'.replace('.',',')
+        return utils.formata_preco(self.preco_marketing) #f'R$ {self.preco_marketing:.2f}'.replace('.',',')
     get_preco_formatado.short_description = 'Preço'
 
     def get_preco_promocional_formatado(self):
-        return f'R$ {self.preco_marketing_promocional:.2f}'.replace('.',',')
+        return utils.formata_preco(self.preco_marketing_promocional) #f'R$ {self.preco_marketing_promocional:.2f}'.replace('.',',')
     get_preco_promocional_formatado.short_description = 'Preço Promocional'    
 
     @staticmethod
@@ -74,7 +75,7 @@ class Variacao(models.Model):
     estoque = models.PositiveIntegerField(default=1)
 
     def __str__(self):
-        return self.name or self.produto.nome
+        return self.nome or self.produto.nome
 
     class Meta:
         verbose_name = 'Variação' 
