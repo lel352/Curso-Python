@@ -202,3 +202,4 @@
     * Aula 07 - Projeto e-commerce - Listando os produtos (templates)
     * Aula 08 - Projeto e-commerce - Detalhes do produto 
     * Aula 09 - Projeto e-commerce - Adicionar ao carrinho (Parte 1)
+    * Aula 10 - Projeto e-commerce - Adicionar ao carrinho (Parte 2)
