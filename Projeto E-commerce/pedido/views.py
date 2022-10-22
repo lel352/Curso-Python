@@ -12,7 +12,7 @@ class Pagar(View):
         return HttpResponse('pAGAR')
     
 
-class FecharPedido(View):
+class SalvarPedido(View):
     pass
 
 class Detalhe(View):
