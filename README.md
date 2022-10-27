@@ -205,3 +205,5 @@
     * Aula 10 - Projeto e-commerce - Adicionar ao carrinho (Parte 2)
     * Aula 11 - Projeto e-commerce - Renderizando o carrinho (Parte 1)
     * Aula 12 - Projeto e-commerce - Renderizando o carrinho (Parte 2)
+    * Aula 13 - Projeto e-commerce - Cadastro de usuários (Parte 1)
+    * Aula 14 - Projeto e-commerce - Cadastro de usuários (Parte 2)
