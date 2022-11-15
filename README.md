@@ -208,3 +208,5 @@
     * Aula 13 - Projeto e-commerce - Cadastro de usuários (Parte 1)
     * Aula 14 - Projeto e-commerce - Cadastro de usuários (Parte 2)
     * Aula 15 - Projeto E-commerce - Login e Logout
+    * Aula 16 - Projeto e-commerce - Resumo da compra
+    * Aula 17 - Projeto e-commerce - Correções de Bugs 
