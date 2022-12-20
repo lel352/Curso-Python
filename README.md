@@ -211,3 +211,4 @@
     * Aula 16 - Projeto e-commerce - Resumo da compra
     * Aula 17 - Projeto e-commerce - Correções de Bugs 
     * Aula 18 - Projeto e-commerce - Salvando o pedido (Parte 1)
+    * Aula 19 - Projeto e-commerce - Salvando o pedido (Parte 2)
