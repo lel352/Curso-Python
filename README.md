@@ -212,3 +212,6 @@
     * Aula 17 - Projeto e-commerce - Correções de Bugs 
     * Aula 18 - Projeto e-commerce - Salvando o pedido (Parte 1)
     * Aula 19 - Projeto e-commerce - Salvando o pedido (Parte 2)
+    * Aula 20 - Projeto e-commerce - Lista e detalhe do pedido para o usuário
+    * Aula 21 - Projeto e-commerce - Corrigindo títulos
+    * Aula 22 - Projeto e-commerce - CPF único
