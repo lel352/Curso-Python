@@ -215,3 +215,4 @@
     * Aula 20 - Projeto e-commerce - Lista e detalhe do pedido para o usuário
     * Aula 21 - Projeto e-commerce - Corrigindo títulos
     * Aula 22 - Projeto e-commerce - CPF único
+    * Aula 23 - Projeto e-commerce: Busca
