@@ -216,3 +216,7 @@
     * Aula 21 - Projeto e-commerce - Corrigindo títulos
     * Aula 22 - Projeto e-commerce - CPF único
     * Aula 23 - Projeto e-commerce: Busca
+
+12. Secão 12: Python Basico - Reinicio
+    * Aula 01 - O interpretador do Python + comentários de código
+    * Aula 02
