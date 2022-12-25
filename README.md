@@ -224,3 +224,13 @@
     * Aula 04 - Tipo str (string) - Introdução aos tipos de dados
     * Aula 05 - Tipo int e float (números) - Introdução aos tipos de dados
     * Aula 06 - Tipo bool (boolean) - Introdução aos tipos de dados
+    * Aula 07 - Coerção de tipos (convertendo um tipo para outro)
+    * Aula 08 - Introdução às variáveis em Python
+    * Aula 09 - Exercício com variáveis e tipos de dados
+    * Aula 10 - Introdução aos operadores aritméticos (matemática) 
+    * Aula 11 - Concatenação + e repetição * com operadores aritméticos
+    * Aula 12 - Precedência entre os operadores aritméticos
+    * Aula 13 -  Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea)  + Ellipsis
+    * Aula 14 - Uma introdução às f-strings (formatação de strings)
+    * Aula 15 - Formatação de strings com o método format
+    * Aula 16 - Usando a função input para coletar dados do usuário
