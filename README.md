@@ -219,4 +219,8 @@
 
 12. Secão 12: Python Basico - Reinicio
     * Aula 01 - O interpretador do Python + comentários de código
-    * Aula 02
+    * Aula 02 - Docstrings como comentários
+    * Aula 03 - A função print
+    * Aula 04 - Tipo str (string) - Introdução aos tipos de dados
+    * Aula 05 - Tipo int e float (números) - Introdução aos tipos de dados
+    * Aula 06 - Tipo bool (boolean) - Introdução aos tipos de dados
