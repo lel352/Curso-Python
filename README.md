@@ -234,3 +234,7 @@
     * Aula 14 - Uma introdução às f-strings (formatação de strings)
     * Aula 15 - Formatação de strings com o método format
     * Aula 16 - Usando a função input para coletar dados do usuário
+    * Aula 17 - Introdução aos blocos de código + if / elif / else (condicionais)
+    * Aula 18 - if, elif e else: entendendo o fluxo do interpretador em condicionais
+    * Aula 19 - O Debugger do VS Code e o interpretador do Python lendo os códigos
+    * Aula 20 - Operadores relacionais (de comparação) em Python
