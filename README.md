@@ -238,3 +238,6 @@
     * Aula 18 - if, elif e else: entendendo o fluxo do interpretador em condicionais
     * Aula 19 - O Debugger do VS Code e o interpretador do Python lendo os códigos
     * Aula 20 - Operadores relacionais (de comparação) em Python
+    * Aula 21 - Solução - Exercício de programação com if e comparação
+    * Aula 22 - Operador Lógico "and"
+    * Aula 23 - Operador Lógico "or"
