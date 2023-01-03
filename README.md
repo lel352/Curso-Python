@@ -241,3 +241,7 @@
     * Aula 21 - Solução - Exercício de programação com if e comparação
     * Aula 22 - Operador Lógico "and"
     * Aula 23 - Operador Lógico "or"
+    * Aula 24 - Operador lógico "not"
+    * Aula 25 - Operadores in e not in
+    * Aula 26 - Interpolação de string com % em Python
+    * Aula 27 - Formatação de strings com f-strings
