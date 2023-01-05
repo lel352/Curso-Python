@@ -245,3 +245,6 @@
     * Aula 25 - Operadores in e not in
     * Aula 26 - Interpolação de string com % em Python
     * Aula 27 - Formatação de strings com f-strings
+    * Aula 28 - Fatiamento de strings e a função lenl
+    * Aula 29 - Exercício: teste seu conhecimento até aqui
+    * Aula 30 - Introdução ao try e except para capturar erros (exceptions)
