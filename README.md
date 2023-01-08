@@ -248,3 +248,4 @@
     * Aula 28 - Fatiamento de strings e a função lenl
     * Aula 29 - Exercício: teste seu conhecimento até aqui
     * Aula 30 - Introdução ao try e except para capturar erros (exceptions)
+    * Aula 31 - Parte 1: Variáveis, constantes e complexidade de código - Parte 2: Variáveis, constantes e complexidade de código
