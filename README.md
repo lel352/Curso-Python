@@ -249,3 +249,8 @@
     * Aula 29 - Exercício: teste seu conhecimento até aqui
     * Aula 30 - Introdução ao try e except para capturar erros (exceptions)
     * Aula 31 - Parte 1: Variáveis, constantes e complexidade de código - Parte 2: Variáveis, constantes e complexidade de código
+    * Aula 32 - id - A identidade do valor que está na memória - Flags, is, is not e None
+    * Aula 33 - Exercícios Enunciado
+    * Aula 34 - Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string
+    * Aula 35 - while e break - Estrutura de repetição (Parte 1)
+    * Aula 36 - While - Condição em detalhes
