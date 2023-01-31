@@ -254,3 +254,7 @@
     * Aula 34 - Conversa - tipos built-in, documentação, tipo imutáveis, métodos de string
     * Aula 35 - while e break - Estrutura de repetição (Parte 1)
     * Aula 36 - While - Condição em detalhes
+    * Aula 37 - Operadores de atribuição com operadores aritméticos
+    * Aula 38 - while + continue - pulando alguma repetição
+    * Aula 39 - while + while (laços internos)
+    * Aula 40 - Exercício guiado com while
