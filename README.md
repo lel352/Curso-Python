@@ -258,3 +258,6 @@
     * Aula 38 - while + continue - pulando alguma repetição
     * Aula 39 - while + while (laços internos)
     * Aula 40 - Exercício guiado com while
+    * Aula 41 - Exercício guiado - Calculadora
+    * Aula 42 - while / else (recurso peculiar do Python)
+    * Aula 43 - while - Qual letra apareceu mais vezes na frase? (Iterando strings com while)
