@@ -42,6 +42,7 @@ while True:
     print(f'Palavra formatada: {acertos_palavra}')
 
     if not '*' in acertos_palavra:
+    
         os.system('cls')    
         print('VOCÊ GANHOU -  PARABÉNS !!! ')
         print(f'A palavra era: {palavra_secreta}')
