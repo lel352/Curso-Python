@@ -264,3 +264,5 @@
     * Aula 44 - Introdução ao for / in - estrutura de repetição para coisas finitas
     * Aula 45 - range + for para usar intervalos de números
     * Aula 46 - Como o for funciona por baixo dos panos? (next, iter, iterável e iterador)
+    * Aula 47 - O que aprendemos com while também funciona no for (continue, break, else, etc)
+    * Aula 48 - Exercício - Jogo da palavra secreta 
