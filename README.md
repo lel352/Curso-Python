@@ -266,3 +266,6 @@
     * Aula 46 - Como o for funciona por baixo dos panos? (next, iter, iterável e iterador)
     * Aula 47 - O que aprendemos com while também funciona no for (continue, break, else, etc)
     * Aula 48 - Exercício - Jogo da palavra secreta 
+    * Aula 49 - Tipo list - Introdução às listas mutáveis em Python
+    * Aula 50 - Alterando uma lista com índices, del, append e pop (Tipo list)
+    * Aula 51 - Inserindo itens em qualquer índice da lista com insert (Tipo list)
