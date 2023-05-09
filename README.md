@@ -269,3 +269,9 @@
     * Aula 49 - Tipo list - Introdução às listas mutáveis em Python
     * Aula 50 - Alterando uma lista com índices, del, append e pop (Tipo list)
     * Aula 51 - Inserindo itens em qualquer índice da lista com insert (Tipo list)
+    * Aula 52 - Concatenando e estendendo listas em Python
+    * Aula 53 - Cuidados com tipos de dados mutáveis - list e copy
+    * Aula 54 - for in com tipo list
+    * Aula 55 - Exercício - exiba os índices da lista (aula com solução)
+    * Aula 56 - Introdução ao empacotamento e desempacotamento
+    * Aula 57 - Tipo tuple (tuplas)
