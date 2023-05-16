@@ -230,7 +230,7 @@
     * Aula 10 - Introdução aos operadores aritméticos (matemática) 
     * Aula 11 - Concatenação + e repetição * com operadores aritméticos
     * Aula 12 - Precedência entre os operadores aritméticos
-    * Aula 13 -  Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea)  + Ellipsis
+    * Aula 13 - Exercício de programação - Cálculo do IMC (Índice de Massa Corpórea)  + Ellipsis
     * Aula 14 - Uma introdução às f-strings (formatação de strings)
     * Aula 15 - Formatação de strings com o método format
     * Aula 16 - Usando a função input para coletar dados do usuário
@@ -275,3 +275,5 @@
     * Aula 55 - Exercício - exiba os índices da lista (aula com solução)
     * Aula 56 - Introdução ao empacotamento e desempacotamento
     * Aula 57 - Tipo tuple (tuplas)
+    * Aula 58 - enumerate para enumerar valores de iteráveis (pegar índices)
+    * Aula 59 - Exercício - crie uma lista de compras com listas
