@@ -277,3 +277,6 @@
     * Aula 57 - Tipo tuple (tuplas)
     * Aula 58 - enumerate para enumerar valores de iteráveis (pegar índices)
     * Aula 59 - Exercício - crie uma lista de compras com listas
+    * Aula 60 - Imprecisão dos números de ponto flutuante + round e decimal.Decimal
+    * Aula 61 - split, join e strip são métodos muito úteis da str
+    * Aula 62 - Listas dentro de listas (iteráveis dentro de iteráveis)
