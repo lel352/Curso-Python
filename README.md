@@ -283,4 +283,7 @@
     * Aula 63 - Detalhes sobre o interpretador do Python
     * Aula 64 - Desempacotamento em chamadas de funções
     * Aula 65 - Operação ternária com Python (if e else de uma linha)
-    * Aula 66 - Exercício - Gerar o primeiro dígito de um CPF com Python 
+    * Aula 66 - Exercício - Gerar o primeiro dígito de um CPF com Python
+    * Aula 67 - Exercício - Gerar o segundo dígito de um CPF com Python
+    * Aula 68 - Possíveis problemas e soluções para nosso algoritmo do CPF
+    * Aula 69 - Criando um gerador de CPFs com nosso algoritmo e Python  

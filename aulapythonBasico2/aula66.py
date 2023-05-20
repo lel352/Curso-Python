@@ -25,7 +25,6 @@ import string
 # cpf = input('Digute um cpf: ')
 cpf = '746.824.890-70'
 cpf = cpf.translate(str.maketrans('', '', string.punctuation))
-print(cpf)
 
 soma = 0
 multiplicador = 10
@@ -34,9 +33,9 @@ for i in cpf[:-2]:
     soma += (multiplicador * int(i)) 
     multiplicador -= 1
 
-resultado = soma * 10
+resultadoDigito1 = soma * 10
 
-resto = resultado % 11
+resto = resultadoDigito1 % 11
 digitoVerificador1 = resto if resto < 9 else 0
 
 digitofinais = cpf[-2:]
