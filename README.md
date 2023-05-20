@@ -280,3 +280,7 @@
     * Aula 60 - Imprecisão dos números de ponto flutuante + round e decimal.Decimal
     * Aula 61 - split, join e strip são métodos muito úteis da str
     * Aula 62 - Listas dentro de listas (iteráveis dentro de iteráveis)
+    * Aula 63 - Detalhes sobre o interpretador do Python
+    * Aula 64 - Desempacotamento em chamadas de funções
+    * Aula 65 - Operação ternária com Python (if e else de uma linha)
+    * Aula 66 - Exercício - Gerar o primeiro dígito de um CPF com Python 
