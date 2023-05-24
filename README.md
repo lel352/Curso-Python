@@ -287,3 +287,8 @@
     * Aula 67 - Exercício - Gerar o segundo dígito de um CPF com Python
     * Aula 68 - Possíveis problemas e soluções para nosso algoritmo do CPF
     * Aula 69 - Criando um gerador de CPFs com nosso algoritmo e Python  
+
+13. Seção 4: Python Intermediário - Funções, Dicionários, Módulos, Programação Funcional e + - Reinicio
+    * Aula 01 - Introdução às funções Python - def define uma função
+    * Aula 02 - Argumentos nomeados e argumentos posicionais (não nomeados) em funções
+    * Aula 03 - Valores padrão para parâmetros em funções Python + NoneType e None
