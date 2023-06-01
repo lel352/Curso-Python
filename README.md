@@ -292,3 +292,8 @@
     * Aula 01 - Introdução às funções Python - def define uma função
     * Aula 02 - Argumentos nomeados e argumentos posicionais (não nomeados) em funções
     * Aula 03 - Valores padrão para parâmetros em funções Python + NoneType e None
+    * Aula 04 - (Parte 1) Escopo de funções e módulos em Python + global
+    * Aula 05 - (Parte 2) Escopo de funções e módulos em Python + global
+    * Aula 06 - Retorno de valores das funções (return)
+    * Aula 07 - * args  para quantidade de argumentos não nomeados variáveis 
+    * Aula 08 - Exercícios com funções + Solução (prepare-se para pausar)
