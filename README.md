@@ -297,3 +297,4 @@
     * Aula 06 - Retorno de valores das funções (return)
     * Aula 07 - * args  para quantidade de argumentos não nomeados variáveis 
     * Aula 08 - Exercícios com funções + Solução (prepare-se para pausar)
+    * Aula 09 - Higher Order Functions - Funções de primeira classe
