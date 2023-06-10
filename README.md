@@ -298,3 +298,11 @@
     * Aula 07 - * args  para quantidade de argumentos não nomeados variáveis 
     * Aula 08 - Exercícios com funções + Solução (prepare-se para pausar)
     * Aula 09 - Higher Order Functions - Funções de primeira classe
+    * Aula 10 - Closure e funções que retornam outras funções
+    * Aula 11 - Exercício com funções
+    * Aula 12 - Introdução ao tipo de dados dict - Dicionários em Python
+    * Aula 13 - Manipulando chaves e valores em dicionários em Python
+    * Aula 14 - (Parte 1) Métodos úteis nos dicionários Python (dict)
+    * Aula 15 - Shallow Copy vs Deep Copy em dados mutáveis Python
+    * Aula 16 - (Parte 2) Métodos úteis nos dicionários Python (dict)
+    * Aula 17 - Exercício - sistema de perguntas e respostas com Python
