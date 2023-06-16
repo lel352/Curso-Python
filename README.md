@@ -295,7 +295,7 @@
     * Aula 04 - (Parte 1) Escopo de funções e módulos em Python + global
     * Aula 05 - (Parte 2) Escopo de funções e módulos em Python + global
     * Aula 06 - Retorno de valores das funções (return)
-    * Aula 07 - * args  para quantidade de argumentos não nomeados variáveis 
+    * Aula 07 - \*args  para quantidade de argumentos não nomeados variáveis 
     * Aula 08 - Exercícios com funções + Solução (prepare-se para pausar)
     * Aula 09 - Higher Order Functions - Funções de primeira classe
     * Aula 10 - Closure e funções que retornam outras funções
@@ -306,3 +306,16 @@
     * Aula 15 - Shallow Copy vs Deep Copy em dados mutáveis Python
     * Aula 16 - (Parte 2) Métodos úteis nos dicionários Python (dict)
     * Aula 17 - Exercício - sistema de perguntas e respostas com Python
+    * Aula 18 - Introdução ao tipo set em Python (conjuntos)
+    * Aula 19 - Peculiaridades do tipo mutável set em Python (set)
+    * Aula 20 - Métodos úteis do tipo set em Python
+    * Aula 21 - Operadores importantes para o tipo set (conjuntos)
+    * Aula 22 - Exemplo de uso do tipo set
+    * Aula 23 - Exercício - Encontre o primeiro duplicado considerando a segunda ocorrência
+    * Aula 24 - Introdução à função lambda + list.sort e sorted
+    * Aula 25 - Funções lambda complexas (para entendimento)
+    * Aula 26 - Empacotamento e desempacotamento de dicionários + \*args e \*\*kwargs
+    * Aula 27 - Introdução à List comprehension em Python
+    * Aula 28 - Mapeamento de dados em list comprehension (map)
+    * Aula 29 - Filtro de dados em list comprehension (filter)
+    * Aula 30 - List comprehension com mais de um for
