@@ -319,3 +319,12 @@
     * Aula 28 - Mapeamento de dados em list comprehension (map)
     * Aula 29 - Filtro de dados em list comprehension (filter)
     * Aula 30 - List comprehension com mais de um for
+    * Aula 31 - Dictionary Comprehension e Set Comprehension
+    * Aula 32 - isinstace() - para saber se objeto é de determinado tipo
+    * Aula 33 - Valores Truthy e Falsy, Tipos Mutáveis e Imutáveis
+    * Aula 34 - dir, hasattr e getattr em Python
+    * Aula 35 - Mais detalhes sobre Iterables e Iterators (Iteráveis e Iteradores) 
+    * Aula 36 - Generator expression, Iterables e Iterators em Python
+    * Aula 37 - Introdução às Generator functions em Python 
+    * Aula 38 - yield from em generator functions
+
