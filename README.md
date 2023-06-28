@@ -327,4 +327,6 @@
     * Aula 36 - Generator expression, Iterables e Iterators em Python
     * Aula 37 - Introdução às Generator functions em Python 
     * Aula 38 - yield from em generator functions
+    * Aula 39 - (Parte 1) try e except para tratar exceções
+    * Aula 40 - (Parte 2) try e except para tratar exceções
 
