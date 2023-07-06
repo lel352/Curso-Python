@@ -329,4 +329,6 @@
     * Aula 38 - yield from em generator functions
     * Aula 39 - (Parte 1) try e except para tratar exceções
     * Aula 40 - (Parte 2) try e except para tratar exceções
+    * Aula 41 - try, except, else e finally + Built-in Exceptions
+    * Aula 42 - raise - lançando exceções (erros)
 
