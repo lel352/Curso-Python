@@ -331,4 +331,9 @@
     * Aula 40 - (Parte 2) try e except para tratar exceções
     * Aula 41 - try, except, else e finally + Built-in Exceptions
     * Aula 42 - raise - lançando exceções (erros)
-
+    * Aula 43 - Módulos - import, from, as e *
+    * Aula 44 - Modularização - Entendendo os seus próprios módulos e sys.path no Python
+    * Aula 45 - Como importar coisas do seu próprio módulo (ponto de vista do __main__)
+    * Aula 46 - Recarregando módulos, importlib e singleton
+    * Aula 47 - Introdução aos packages (pacotes) em Python
+    * Aula 48 - O ponto de vista do __main__ pode te confundir em módulos e pacotes Python
