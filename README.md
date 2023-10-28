@@ -339,3 +339,5 @@
     * Aula 48 - O ponto de vista do __main__ pode te confundir em módulos e pacotes Python
     * Aula 49 - init__.py é um arquivo de inicialização dos packages em Python
     * Aula 50 - Proposta de 3 exercícios em um
+    * Aula 51 - Exercício - Adiando execução de funções
+    * Aula 52 - Variáveis livres + nonlocal (locals, globals)
