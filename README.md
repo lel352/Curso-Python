@@ -341,3 +341,9 @@
     * Aula 50 - Proposta de 3 exercícios em um
     * Aula 51 - Exercício - Adiando execução de funções
     * Aula 52 - Variáveis livres + nonlocal (locals, globals)
+    * Aula 53 - Funções decoradoras em geral
+    * Aula 54 - Decoradores em Python (@syntax_sugar)
+    * Aula 55 - Decoradores com parâmetros
+    * Aula 56 - Ordem de aplicação dos decoradores
+    * Aula 57 - Solução do Exercício + zip e zip_longest do itertools
+    * Aula 58 - Exercícios - somando duas listas
