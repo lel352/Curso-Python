@@ -347,3 +347,6 @@
     * Aula 56 - Ordem de aplicação dos decoradores
     * Aula 57 - Solução do Exercício + zip e zip_longest do itertools
     * Aula 58 - Exercícios - somando duas listas
+    * Aula 59 - count é um iterador sem fim (itertools)
+    * Aula 60 - Combinations, Permutations e Product - Itertools
+    * Aula 61 - groupby - agrupando valores (itertools) 
