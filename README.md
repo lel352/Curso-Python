@@ -349,4 +349,6 @@
     * Aula 58 - Exercícios - somando duas listas
     * Aula 59 - count é um iterador sem fim (itertools)
     * Aula 60 - Combinations, Permutations e Product - Itertools
-    * Aula 61 - groupby - agrupando valores (itertools) 
+    * Aula 61 - groupby - agrupando valores (itertools)
+    * Aula 62 - map, partial, GeneratorType e esgotamento de Iterators
+    * Aula 63 - filter é um filtro funcional 
