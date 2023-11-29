@@ -352,3 +352,6 @@
     * Aula 61 - groupby - agrupando valores (itertools)
     * Aula 62 - map, partial, GeneratorType e esgotamento de Iterators
     * Aula 63 - filter é um filtro funcional 
+    * Aula 64 - reduce - faz a redução de um iterável em um valor
+    * Aula 65 - Funções recursivas, recursividade e Stack Overflow
+    * Aula 66 - Limite de recursão e cuidados com funções recursivas
