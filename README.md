@@ -355,3 +355,7 @@
     * Aula 64 - reduce - faz a redução de um iterável em um valor
     * Aula 65 - Funções recursivas, recursividade e Stack Overflow
     * Aula 66 - Limite de recursão e cuidados com funções recursivas
+    * Aula 67 - O que são ambientes virtuais? (venv) 
+    * Aula 68 - Como criar ambientes virtuais com venv 
+    * Aula 69 - 
+    * Aula 70
