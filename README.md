@@ -357,5 +357,6 @@
     * Aula 66 - Limite de recursão e cuidados com funções recursivas
     * Aula 67 - O que são ambientes virtuais? (venv) 
     * Aula 68 - Como criar ambientes virtuais com venv 
-    * Aula 69 - 
-    * Aula 70
+    * Aula 69 - Ativando e desativando meu ambiente virtual 
+    * Aula 70 - pip - instalando pacotes e bibliotecas 
+    * Aula 71 - Criando e usando um requirements.txt
