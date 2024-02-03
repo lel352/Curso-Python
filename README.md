@@ -360,3 +360,6 @@
     * Aula 69 - Ativando e desativando meu ambiente virtual 
     * Aula 70 - pip - instalando pacotes e bibliotecas 
     * Aula 71 - Criando e usando um requirements.txt
+    * Aula 72 - Criando arquivos com Python + Context Manager with
+    * Aula 73 - with open (context manager) e métodos úteis do TextIOWrapper
+    * Aula 74 - Modos de abertura de arquivo e encoding com with open 
