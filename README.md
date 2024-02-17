@@ -363,3 +363,7 @@
     * Aula 72 - Criando arquivos com Python + Context Manager with
     * Aula 73 - with open (context manager) e métodos úteis do TextIOWrapper
     * Aula 74 - Modos de abertura de arquivo e encoding com with open 
+    * Aula 75 - os.remove, os.unlink e os.rename - apagando, renomeando e movendo arquivos
+    * Aula 76 - Salvando dados Python em JSON com módulo json
+    * Aula 77 - Problema dos parâmetros mutáveis em funções Python
+    * Aula 78 - Exercício - Lista de tarefas com opções de desfazer e refazer
