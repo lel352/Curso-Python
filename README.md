@@ -367,3 +367,6 @@
     * Aula 76 - Salvando dados Python em JSON com módulo json
     * Aula 77 - Problema dos parâmetros mutáveis em funções Python
     * Aula 78 - Exercício - Lista de tarefas com opções de desfazer e refazer
+    * Aula 79 - Evitando uso de condicionais + Guard Clause
+    * Aula 80 - Exercício (+solução) - salvando a lista de tarefas em JSON
+    * Aula 81 - 196. Positional-Only Parameters (/) e Keyword-Only Arguments (*)
