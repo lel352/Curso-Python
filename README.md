@@ -370,3 +370,11 @@
     * Aula 79 - Evitando uso de condicionais + Guard Clause
     * Aula 80 - Exercício (+solução) - salvando a lista de tarefas em JSON
     * Aula 81 - 196. Positional-Only Parameters (/) e Keyword-Only Arguments (*)
+
+
+14. Seção 5: Introdução à Programação Orientada a Objetos em Python - POO (Classes) - Reinicio
+    * Aula 01 - class - Classes são moldes para criar novos objetos
+    * Aula 02 - Introdução ao método __init__ (inicializador de atributos)
+    * Aula 03 - Métodos em instâncias de classes Python
+    * Aula 04 - Entendendo self em classes Python
+    * Aula 05 - Escopo da classe e de métodos da classe
