@@ -378,3 +378,8 @@
     * Aula 03 - Métodos em instâncias de classes Python
     * Aula 04 - Entendendo self em classes Python
     * Aula 05 - Escopo da classe e de métodos da classe
+    * Aula 06 - Mantendo estados dentro da classe
+    * Aula 07 - Atributos de classe
+    * Aula 08 - __dict__ e vars para atributos de instância
+    * Aula 09 - Exercício - Salve sua classe em JSON
+    * Aula 10 - Curiosidades sobre convenções de nomes
