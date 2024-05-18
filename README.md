@@ -383,3 +383,9 @@
     * Aula 08 - __dict__ e vars para atributos de instância
     * Aula 09 - Exercício - Salve sua classe em JSON
     * Aula 10 - Curiosidades sobre convenções de nomes
+    * Aula 11 - Métodos de classe (@classmethod) + factories methods (métodos fábrica)
+    * Aula 12 - @staticmethod (métodos estáticos) são inúteis em Python =)
+    * Aula 13 - method vs @classmethod vs @staticmethod
+    * Aula 14 - @property - um getter no modo Pythônico
+    * Aula 15 - @property + @setter - getter e setter no modo Pythônico
+    * Aula 16 - 
