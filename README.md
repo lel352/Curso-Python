@@ -392,4 +392,4 @@
     * Aula 17 - Relações entre classes: associação, agregação e composição
     * Aula 18 - Agregação - Python Orientado a Objetos
     * Aula 19 - Composição - Python Orientado a Objetos
-    * Aula 20 - . Exercício (+solução) com classes e relações
+    * Aula 20 - Exercício (+solução) com classes e relações
