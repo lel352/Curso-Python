@@ -388,4 +388,8 @@
     * Aula 13 - method vs @classmethod vs @staticmethod
     * Aula 14 - @property - um getter no modo Pythônico
     * Aula 15 - @property + @setter - getter e setter no modo Pythônico
-    * Aula 16 - 
+    * Aula 16 - Encapsulamento (modificadores de acesso: public, _ protected, __ private)
+    * Aula 17 - Relações entre classes: associação, agregação e composição
+    * Aula 18 - Agregação - Python Orientado a Objetos
+    * Aula 19 - Composição - Python Orientado a Objetos
+    * Aula 20 - . Exercício (+solução) com classes e relações
