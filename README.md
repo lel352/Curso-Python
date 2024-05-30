@@ -393,3 +393,8 @@
     * Aula 18 - Agregação - Python Orientado a Objetos
     * Aula 19 - Composição - Python Orientado a Objetos
     * Aula 20 - Exercício (+solução) com classes e relações
+    * Aula 21 - TEORIA: Herança, generalização e especialização
+    * Aula 22 - Herança Simples - Python Orientado a Objetos
+    * Aula 23 - (Parte 1) super e a sobreposição de membros em Python Orientado a Objetos
+    * Aula 24 - Teoria - Herança múltipla - Python Orientado a Objetos
+    * Aula 25 - Herança múltipla - Python Orientado a Objetos 
