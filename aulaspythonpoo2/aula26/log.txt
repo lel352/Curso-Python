@@ -1,0 +1,4 @@
+Error =: qualquer coisa (LogFileMixin)
+Sucess =: qualquer coisa (LogFileMixin)
+Error =: qualquer coisa (LogFileMixin)
+Sucess =: qualquer coisa (LogFileMixin)

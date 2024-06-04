@@ -398,3 +398,7 @@
     * Aula 23 - (Parte 1) super e a sobreposição de membros em Python Orientado a Objetos
     * Aula 24 - Teoria - Herança múltipla - Python Orientado a Objetos
     * Aula 25 - Herança múltipla - Python Orientado a Objetos 
+    * Aula 26 - (Parte 1) Mixins, Abstração e a união de tudo até aqui
+    * Aula 27 - (Parte 2) Log, LogFileMixin, LogPrintMixin e a união de tudo até aqui
+    * Aula 28 - (Parte 3) LogFileMixin e a união de tudo até aqui
+    * Aula 29 - (Parte 4) Eletrônico, Smartphone com Mixin e a união de tudo até aqui
