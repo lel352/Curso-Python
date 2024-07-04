@@ -402,3 +402,5 @@
     * Aula 27 - (Parte 2) Log, LogFileMixin, LogPrintMixin e a união de tudo até aqui
     * Aula 28 - (Parte 3) LogFileMixin e a união de tudo até aqui
     * Aula 29 - (Parte 4) Eletrônico, Smartphone com Mixin e a união de tudo até aqui
+    * Aula 30 - Classes abstratas - Abstract Base Class (abc) - Python Orientado a Objetos
+    * Aula 31 - Abstractmethod para qualquer método já decorado (property e setter)
