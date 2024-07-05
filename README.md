@@ -404,3 +404,8 @@
     * Aula 29 - (Parte 4) Eletrônico, Smartphone com Mixin e a união de tudo até aqui
     * Aula 30 - Classes abstratas - Abstract Base Class (abc) - Python Orientado a Objetos
     * Aula 31 - Abstractmethod para qualquer método já decorado (property e setter)
+    * Aula 32 - Teoria: polimorfismo, assinatura de métodos e Liskov Substitution Principle
+    * Aula 33 - Na prática: polimorfismo, assinatura de métodos e Liskov Substitution Principle 
+    * Aula 34 - Criando Exceptions em Python Orientado a Objetos 
+    * Aula 35 - Levantando e tratando suas Exceptions (Exceções)
+    * Aula 36 - Notas das exceptions em Python 3.11+ (add_notes, __notes__) 
