@@ -408,4 +408,9 @@
     * Aula 33 - Na prática: polimorfismo, assinatura de métodos e Liskov Substitution Principle 
     * Aula 34 - Criando Exceptions em Python Orientado a Objetos 
     * Aula 35 - Levantando e tratando suas Exceptions (Exceções)
-    * Aula 36 - Notas das exceptions em Python 3.11+ (add_notes, __notes__) 
+    * Aula 36 - Notas das exceptions em Python 3.11+ (add_notes, __notes__)
+    * Aula 37 - Teoria: python Special Methods, Magic Methods ou Dunder Methods
+    * Aula 38 - Python Dunder Methods __repr__ e __str__
+    * Aula 39 - Exemplo de uso de dunder methods (métodos mágicos)
+    * Aula 40 - __new__ e __init__ em classes Pytho
+ 
