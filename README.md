@@ -413,4 +413,8 @@
     * Aula 38 - Python Dunder Methods __repr__ e __str__
     * Aula 39 - Exemplo de uso de dunder methods (métodos mágicos)
     * Aula 40 - __new__ e __init__ em classes Pytho
+    * Aula 41 - Context Manager com classes - Criando e Usando gerenciadores de contexto
+    * Aula 42 - Exceptions em context manager com classes
+    * Aula 43 - Context Manager com contextlib.contextmanager 
+
  
