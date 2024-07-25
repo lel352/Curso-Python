@@ -416,5 +416,9 @@
     * Aula 41 - Context Manager com classes - Criando e Usando gerenciadores de contexto
     * Aula 42 - Exceptions em context manager com classes
     * Aula 43 - Context Manager com contextlib.contextmanager 
+    * Aula 44 - Funções decoradoras e decoradores com classes
+    * Aula 45 - Funções decoradoras e decoradores com métodos
+    * Aula 46 - Método especial __call__ 
+    * Aula 47 - Classes decoradoras (Decorator classes)
 
  
