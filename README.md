@@ -420,5 +420,10 @@
     * Aula 45 - Funções decoradoras e decoradores com métodos
     * Aula 46 - Método especial __call__ 
     * Aula 47 - Classes decoradoras (Decorator classes)
+    * Aula 48 - Teoria: metaclasses são o tipo das classes
+    * Aula 49 - __new__ de uma metaclass cria e retorna a classe em si
+    * Aula 50 - __call__ de uma metaclass cria e retorna a instância da classe
+    * Aula 51 - dir e help + DocStrings de uma linha (Documentação) 
+    * Aula 52 - DocStrings de várias linhas (Documentação)
 
  
