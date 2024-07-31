@@ -425,5 +425,6 @@
     * Aula 50 - __call__ de uma metaclass cria e retorna a instância da classe
     * Aula 51 - dir e help + DocStrings de uma linha (Documentação) 
     * Aula 52 - DocStrings de várias linhas (Documentação)
+    * Aula 53 - DocStrings em funções (Documentação)
 
  
