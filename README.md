@@ -428,5 +428,13 @@
     * Aula 53 - DocStrings em funções (Documentação)
     * Aula 54 - Teoria e Código: enum.Enum (Enumerações)
     * Aula 55 - Exercício com Abstração, Herança, Encapsulamento e Polimorfismo
+    * Aula 56 - dataclasses - O que são dataclasses?
+    * Aula 57 - dataclasses com métodos, property e setter
+    * Aula 58 - __init__ e __post_init__ em dataclasses
+    * Aula 59 - Configurações do decorator dataclass
+    * Aula 60 - asdict e astuple em dataclasse
+    * Aula 61 - Valores padrão, field e fields em dataclasses
+    * Aula 62 - namedtuple - tuplas imutáveis com nomes para valores
+    * Aula 63 - Criando sua própria lista com Iterable, Iterator e Sequence (collections.abc)
 
  
