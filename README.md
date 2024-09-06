@@ -437,4 +437,17 @@
     * Aula 62 - namedtuple - tuplas imutáveis com nomes para valores
     * Aula 63 - Criando sua própria lista com Iterable, Iterator e Sequence (collections.abc)
 
- 
+15.  Seção 6: Módulos Python - os, datetime, sys, json, csv, selenium, pillow e mais
+    * Aula 01 - if __name__ == "__main__"
+    * Aula 02 - Criando data e hora em Python com módulo datetime
+    * Aula 03 - Data e hora atual (now), com Unix Timestamp e Timezone diferente (pytz)
+    * Aula 04 - datetime.timedelta e dateutil.relativedelta (calculando datas)
+    * Aula 05 - Formatando datas do datetime com strftime no Python
+    * AUla 06 - Exercício solucionado: calculando as datas e parcelas de um empréstimo
+    * Aula 07 - Usando calendar para calendários e datas
+    * Aula 08 - locale para internacionalização (tradução)
+    * Aula 09 - O módulo os para interação com o sistema
+    * Aula 10 - os.path trabalha com caminhos em Windows, Linux e Mac
+    * Aula 11 - os.listdir para navegar em caminho
+    * Aula 12 - os.walk para navegar de caminhos de forma recursiva
+    * Aula 13 - os.path.getsize e os.stat para dados dos arquivos (tamanho em bytes)
