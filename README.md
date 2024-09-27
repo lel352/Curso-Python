@@ -451,3 +451,8 @@
     * Aula 11 - os.listdir para navegar em caminho
     * Aula 12 - os.walk para navegar de caminhos de forma recursiva
     * Aula 13 - os.path.getsize e os.stat para dados dos arquivos (tamanho em bytes)
+    * Aula 14 - os + shutil - Copiando arquivos e criando pastas com Python
+    * Aula 15 - os + shutil - Apagando, copiando, movendo e renomeando pastas com Python
+    * Aula 16 - O que é JSON - JavaScript Object Notation
+    * Aula 17 - json.dumps e json.loads com strings + typing.TypedDict
+    * Aula 18 - json.dump e json.load com arquivos
