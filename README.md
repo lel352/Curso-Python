@@ -456,3 +456,9 @@
     * Aula 16 - O que é JSON - JavaScript Object Notation
     * Aula 17 - json.dumps e json.loads com strings + typing.TypedDict
     * Aula 18 - json.dump e json.load com arquivos
+    * Aula 19 - Manipulando caminhos, pastas e arquivos no Python com pathlib 
+    * Aula 20 - CSV (Comma Separated Values - Valores separados por vírgulas)
+    * Aula 21 - csv.reader e csv.DictReader para ler arquivos CSV
+    * Aula 22 - csv.writer e csv.DictWriter para escrever em CSV
+    * Aula 23 - random tem geradores de números pseudoaleatórios (randrange, randint, uniform) and random tem geradores de números pseudoaleatórios (sample, choices, seed)
+    * Aula 24 - secrets gera números aleatórios seguros
