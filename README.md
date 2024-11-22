@@ -462,3 +462,5 @@
     * Aula 22 - csv.writer e csv.DictWriter para escrever em CSV
     * Aula 23 - random tem geradores de números pseudoaleatórios (randrange, randint, uniform) and random tem geradores de números pseudoaleatórios (sample, choices, seed)
     * Aula 24 - secrets gera números aleatórios seguros
+    * Aula 25 - string.Template para substituir variáveis em textos
+    * Aula 26 - (Parte 1) Variáveis de ambiente com os.getenv, os.environ e python-dotenv 
