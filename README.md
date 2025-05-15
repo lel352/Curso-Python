@@ -376,8 +376,7 @@
     * Aula 01 - class - Classes são moldes para criar novos objetos
     * Aula 02 - Introdução ao método __init__ (inicializador de atributos)
     * Aula 03 - Métodos em instâncias de classes Python
-    * Aula 04 - Entendendo self em classes Python
-    * Aula 05 - Escopo da classe e de métodos da classe
+    * Aula 04 - Entendendo self em classes Python    * Aula 05 - Escopo da classe e de métodos da classe
     * Aula 06 - Mantendo estados dentro da classe
     * Aula 07 - Atributos de classe
     * Aula 08 - __dict__ e vars para atributos de instância
@@ -464,3 +463,11 @@
     * Aula 24 - secrets gera números aleatórios seguros
     * Aula 25 - string.Template para substituir variáveis em textos
     * Aula 26 - (Parte 1) Variáveis de ambiente com os.getenv, os.environ e python-dotenv 
+    * Aula 27 - Enviando E-mails SMTP com Python
+    * Aula 28 - Compactando / Descompactando arquivos com zipfile.ZipFile
+    * Aula 29 - sys.argv - Executando arquivos com argumentos no sistema
+    * Aula 30 - argparse.ArgumentParser para argumentos mais complexos
+    * Aula 31 - (Parte 1 e 2) Básico do protocolo HTTP (HyperText Transfer Protocol)
+    * Aula 32 - http.server - servindo arquivos HTML e CSS via HTTP com um comando Python
+    * Aula 33 - requests para requisições HTTP com Python (entenda request e response)
+    * Aula 34 - (parte 1 e 2) Web Scraping com Python usando requests e bs4 BeautifulSoup
