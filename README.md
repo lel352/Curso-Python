@@ -471,3 +471,5 @@
     * Aula 32 - http.server - servindo arquivos HTML e CSS via HTTP com um comando Python
     * Aula 33 - requests para requisições HTTP com Python (entenda request e response)
     * Aula 34 - (parte 1 e 2) Web Scraping com Python usando requests e bs4 BeautifulSoup
+    * Aula 35 - Escolhendo e baixando o chromedriver/edgeDriver para o Selenium e Google Chrome, Selenium - Automatizando tarefas no navegador
+    * Aula 36 - Selenium - Selecionando elementos com By, expected_conditions e WebDriverWait    
