@@ -369,7 +369,7 @@
     * Aula 78 - Exercício - Lista de tarefas com opções de desfazer e refazer
     * Aula 79 - Evitando uso de condicionais + Guard Clause
     * Aula 80 - Exercício (+solução) - salvando a lista de tarefas em JSON
-    * Aula 81 - 196. Positional-Only Parameters (/) e Keyword-Only Arguments (*)
+    * Aula 81 - 196. Positional-Only Parameters (/) e Keyword-Only Arguments (\*)
     
 
 14. Seção 5: Introdução à Programação Orientada a Objetos em Python - POO (Classes) - Reinicio
@@ -472,4 +472,6 @@
     * Aula 33 - requests para requisições HTTP com Python (entenda request e response)
     * Aula 34 - (parte 1 e 2) Web Scraping com Python usando requests e bs4 BeautifulSoup
     * Aula 35 - Escolhendo e baixando o chromedriver/edgeDriver para o Selenium e Google Chrome, Selenium - Automatizando tarefas no navegador
-    * Aula 36 - Selenium - Selecionando elementos com By, expected_conditions e WebDriverWait    
+    * Aula 36 - Selenium - Selecionando elementos com By, expected_conditions e WebDriverWait   
+    * Aula 37 - TEORIA: subprocess para executando programas e comandos externos
+    * Aula 38 - subprocess para executando programas e comandos externos
