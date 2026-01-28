@@ -475,3 +475,5 @@
     * Aula 36 - Selenium - Selecionando elementos com By, expected_conditions e WebDriverWait   
     * Aula 37 - TEORIA: subprocess para executando programas e comandos externos
     * Aula 38 - subprocess para executando programas e comandos externos
+    * Aula 39 - Jupyter Notebook - Instalação e teste
+    * Aula 40 - Jupyter Notebook - Exemplos
